@@ -2,7 +2,7 @@
 
 > 声明：此项目只发布于 GitHub，基于 MIT 协议，免费且作为开源学习使用。
 
-部署本产品需要用到chatgpt账号和APIkey,没有的可以点击下方链接获取：
+部署本产品需要用到chatgpt账号和APIkey，没有的可以点击下方链接获取：
 [chatgpt账号和APIkey获取](https://www.shandianfk.com)
 
 ![cover](./docs/c1.png)
