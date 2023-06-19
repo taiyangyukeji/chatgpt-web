@@ -1,8 +1,9 @@
 # ChatGPT Web
 
-> 声明：此项目只发布于 GitHub，基于 MIT 协议，免费且作为开源学习使用。并且不会有任何形式的卖号、付费服务、讨论群、讨论组等行为。谨防受骗。
+> 声明：此项目只发布于 GitHub，基于 MIT 协议，免费且作为开源学习使用。
 
-更多功能：[chatgpt-web-plus](https://github.com/Chanzhaoyu/chatgpt-web-plus)
+部署本产品需要用到chatgpt账号和APIkey,没有的可以点击下方链接获取：
+[chatgpt账号和APIkey获取](https://www.shandianfk.com)
 
 ![cover](./docs/c1.png)
 ![cover2](./docs/c2.png)
